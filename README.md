@@ -122,6 +122,7 @@ projeto_emails/
 ├── .vscode/              # Configurações do VS Code (inclui launch.json)
 │   └── launch.json
 └── venv/                 # Ambiente virtual (IGNORADO PELO GIT)
+
 📈 Próximos Passos / Melhorias Potenciais
 Log de Erros: Implementar um sistema de log mais robusto para registrar envios falhos e erros de banco de dados.
 
@@ -136,7 +137,6 @@ Relatórios: Gerar relatórios de inadimplência após o envio.
 📧 Contato
 Se tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato:
 
-Seu Nome Completo
-[Seu Email (ex: leandrorodriguescamposti@gmail.com)]
-[Seu LinkedIn (ex: linkedin.com/in/seu-perfil)]
-[Seu Portfólio/Website (se tiver)]
+Leandro Rodrigues Campos Oliveira
+[leandrorodriguescamposti@gmail.com]
+[https://www.linkedin.com/in/leandro-oliveira-256916172/]
